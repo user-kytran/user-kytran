@@ -6,4 +6,4 @@
 - 🚀 Quick learner with a keen interest in data science and engineering.
 - 📊 Focused on enhancing my skills and knowledge in data.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kytran020103&show_icons=true&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=user-kytran&show_icons=true&theme=cobalt)
