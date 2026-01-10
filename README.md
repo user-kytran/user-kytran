@@ -14,4 +14,3 @@ I focus on transforming raw data into reliable, high-performance systems that po
 ## 📫 Contact
 - 📧 Email: **ky.tran1752003@gmail.com**
 - 🌍 Ho Chi Minh City, Vietnam
-- 🔗 GitHub: https://github.com/user-kytran
