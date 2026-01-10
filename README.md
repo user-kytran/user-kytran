@@ -1,5 +1,6 @@
-👋 Hi, I'm **Kỳ Trần** — a **Data Engineer** with a strong interest in **Data Engineering, Streaming Systems, and MLOps**.  
-I enjoy building scalable data pipelines, real-time processing systems, and end-to-end data platforms that support analytics and machine learning.
+👋 Hi, I'm **Kỳ Trần** — a **Data Engineer** passionate about building scalable data pipelines, real-time streaming systems, and production-ready MLOps platforms.  
+I focus on transforming raw data into reliable, high-performance systems that power analytics and machine learning.
+
 ---
 
 ## 🏆 Achievements
@@ -12,5 +13,5 @@ I enjoy building scalable data pipelines, real-time processing systems, and end-
 
 ## 📫 Contact
 - 📧 Email: **ky.tran1752003@gmail.com**
-- 🌍 Location: Ho Chi Minh City, Vietnam
-- 🔗 GitHub: [github.com/user-kytran](https://github.com/user-kytran)
+- 🌍 Ho Chi Minh City, Vietnam
+- 🔗 GitHub: https://github.com/user-kytran
