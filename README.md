@@ -4,6 +4,10 @@
   <img src="https://highlike.org/media/2014/12/Paul-Robertson-expedition.gif" alt="Data Engineering" width="600"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=user-kytran&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 ## DATA ENGINEER
 
 I'm a **Data Engineer** passionate about building **scalable data pipelines**, **real-time streaming systems**, and **production-ready MLOps platforms**.
@@ -22,7 +26,7 @@ Transforming raw data into reliable, high-performance systems that power analyti
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="email" width="25" height="25" style="filter: invert(36%) sepia(95%) saturate(2447%) hue-rotate(348deg);"/>
     <span style="margin-left: 8px; color: inherit;">ky.tran1752003@gmail.com</span>
   </a>
-  <br><br>
+  <!-- <br><br>
   <a href="https://www.linkedin.com/in/k%E1%BB%B3-tr%E1%BA%A7n-7b028227a/" target="_blank" rel="noreferrer" style="display: inline-flex; align-items: center; text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="linkedin" width="25" height="25" style="filter: invert(38%) sepia(92%) saturate(2086%) hue-rotate(189deg);"/>
     <span style="margin-left: 8px; color: inherit;">linkedin.com/in/kỳ-trần</span>
@@ -36,7 +40,7 @@ Transforming raw data into reliable, high-performance systems that power analyti
   <span style="display: inline-flex; align-items: center;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlemaps.svg" alt="location" width="25" height="25" style="filter: invert(48%) sepia(88%) saturate(3259%) hue-rotate(163deg);"/>
     <span style="margin-left: 8px;">Ho Chi Minh City, Vietnam</span>
-  </span>
+  </span> -->
 </p>
 
 ---
