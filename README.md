@@ -131,14 +131,19 @@ Transforming raw data into reliable, high-performance systems that power analyti
 
 ## GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=user-kytran&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=user-kytran&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
-
+</p> -->
+<div align="center">
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=user-kytran&count_private=true&theme=react&border_radius=10" alt="GitHub Streak" height="200" width="48%"/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=user-kytran&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" height="200" width="45.5%"/>  
+  <br>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=user-kytran&layout=compact&theme=react&border_radius=10" alt="Top Languages" height="200" width="45%"/>
+</div>
 ---
 
 <p align="center">
