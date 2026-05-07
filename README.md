@@ -47,83 +47,151 @@ Transforming raw data into reliable, high-performance systems that power analyti
 
 ## Languages & Tools
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>
-  </a>
-  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="45" height="45"/>
-  </a>
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="45" height="45"/>
-  </a>
-  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.vectorlogo.zone/logos/apache_airflow/images/9c14446f-4cdc-4b19-9290-c753fc20fb2a.svg" alt="airflow" width="45" height="45"/>
-  </a>
-  <a href="https://nifi.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_nifi/apache_nifi-ar21.svg" alt="nifi" width="60" height="45"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
-  </a>
-  <a href="https://flink.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.vectorlogo.zone/logos/apache_flink/images/717d859a-4eae-4752-bf4d-cefa5cd80af7.svg" alt="flink" width="45" height="45"/>
-  </a>
-  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="45" height="45"/>
-  </a>
-  <a href="https://scrapy.org/" target="_blank" rel="noreferrer">
-    <img src="https://hexmos.com/freedevtools/svg_icons/erlang/scrapy.svg" alt="scrapy" width="45" height="45"/>
-  </a>
-  <a href="https://www.scylladb.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/scylladb/scylladb-icon.svg" alt="scylladb" width="45" height="45"/>
-  </a>
-  <!-- <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/>
-  </a> -->
-  <!-- <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="45" height="45"/>
-  </a> -->
-  <!-- <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="45" height="45"/>
-  </a> -->
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/>
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="45" height="45"/>
-  </a>
-  <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="45" height="45"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="45" height="45"/>
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="45" height="45"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="45" height="45"/>
-  </a>
-  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-    <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface" width="45" height="45"/>
-  </a>
-  <a href="https://mlflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.brandfetch.io/idS8GMP5c8/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1742926327412" alt="mlflow" width="45" height="45"/>
-  </a>
-</p>
+<table>
+<tr>
+
+<td align="center" width="96">
+<a href="https://www.python.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+</a>
+</td>
+
+<td align="center" width="96">
+<a href="https://www.postgresql.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
+</a>
+</td>
+
+<td align="center" width="96">
+<a href="https://spark.apache.org/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="45" height="45" alt="Spark"/>
+</a>
+</td>
+
+<td align="center" width="96">
+<a href="https://kafka.apache.org/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="45" height="45" alt="Kafka"/>
+</a>
+</td>
+
+<td align="center" width="96">
+<a href="https://airflow.apache.org/" target="_blank">
+<img src="https://upload.vectorlogo.zone/logos/apache_airflow/images/9c14446f-4cdc-4b19-9290-c753fc20fb2a.svg" width="45" height="45" alt="Airflow"/>
+</a>
+</td>
+
+<td align="center" width="96">
+<a href="https://nifi.apache.org/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/apache_nifi/apache_nifi-ar21.svg" width="60" height="45" alt="NiFi"/>
+</a>
+</td>
+
+<td align="center" width="96">
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
+</a>
+</td>
+
+<td align="center" width="96">
+<a href="https://flink.apache.org/" target="_blank">
+<img src="https://upload.vectorlogo.zone/logos/apache_flink/images/717d859a-4eae-4752-bf4d-cefa5cd80af7.svg" width="45" height="45" alt="Flink"/>
+</a>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="96">
+<a href="https://www.selenium.dev/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="45" height="45" alt="Selenium"/>
+</a>
+</td>
+
+<td align="center" width="96">
+<a href="https://scrapy.org/" target="_blank">
+<img src="https://hexmos.com/freedevtools/svg_icons/erlang/scrapy.svg" width="45" height="45" alt="Scrapy"/>
+</a>
+</td>
+
+<td align="center" width="96">
+<a href="https://www.scylladb.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/scylladb/scylladb-icon.svg" width="45" height="45" alt="ScyllaDB"/>
+</a>
+</td>
+
+<td align="center" width="96">
+<a href="https://pandas.pydata.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
+</a>
+</td>
+
+<td align="center" width="96">
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
+</a>
+</td>
+
+<td align="center" width="96">
+<a href="https://redis.io/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="45" height="45" alt="Redis"/>
+</a>
+</td>
+
+<td align="center" width="96">
+<a href="https://www.elastic.co/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="45" height="45" alt="ElasticSearch"/>
+</a>
+</td>
+
+<td align="center" width="96">
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45" alt="Git"/>
+</a>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="96">
+<a href="https://www.linux.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
+</a>
+</td>
+
+<td align="center" width="96">
+<a href="https://scikit-learn.org/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45" alt="Scikit Learn"/>
+</a>
+</td>
+
+<td align="center" width="96">
+<a href="https://www.tensorflow.org/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45" height="45" alt="TensorFlow"/>
+</a>
+</td>
+
+<td align="center" width="96">
+<a href="https://pytorch.org/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45" height="45" alt="PyTorch"/>
+</a>
+</td>
+
+<td align="center" width="96">
+<a href="https://huggingface.co/" target="_blank">
+<img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="45" height="45" alt="HuggingFace"/>
+</a>
+</td>
+
+<td align="center" width="96">
+<a href="https://mlflow.org/" target="_blank">
+<img src="https://cdn.brandfetch.io/idS8GMP5c8/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1742926327412" width="45" height="45" alt="MLflow"/>
+</a>
+</td>
+
+</tr>
+</table>
 
 ---
 
